@@ -7,10 +7,10 @@ Water-cooled is an experimental design for a water-cooled Ormerod extruder.
 
 554.1-extruder-drive-pneumatic.fcstd Is a modified extruder drive block that takes M6 4mm pneumatic fittings instead of the old Ormerod Bowden ends.  Carefully clean the M6 thread with an M6 tap and blow through before using.
 
-528.4 Ormerod 2.fcstd is the whole of Oremerod as a FreeCAD model.
+528.4 Ormerod 2.fcstd is the whole of Ormerod as a FreeCAD model.
 
 1079.1-quickset-nozzle-mount.fcstd is a design for a hot end mount with an extra tab useful for a cable tie.
 
 PTFE-guide-tube-holder.fcstd is a guide for 2 4mm diameter PTFE Bowden tubes.
 
-snail-blower-fan-bracket.stl Snail print cooler bracket.  TODO reverse engineer into FreeCAD.
+snail-blower-fan-bracket.stl Snail print-cooler bracket.  TODO reverse engineer into FreeCAD.
