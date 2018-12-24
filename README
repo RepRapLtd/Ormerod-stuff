@@ -7,7 +7,9 @@ Water-cooled is an experimental design for a water-cooled Ormerod extruder.
 
 554.1-extruder-drive-pneumatic.fcstd Is a modified Ormerod 2 extruder drive block that takes M6 4mm pneumatic fittings instead of the old Ormerod Bowden start. Carefully clean the M6 thread with an M6 tap and blow through before using.
 
-554.2-extruder-drive-pneumatic.fcstd is a modified version of 554.1 .  It also has a larger diameter (3mm) input hole so a filament guide PTFE tube can be run all the way round the corner to give low friction. 
+554.2-extruder-drive-pneumatic.fcstd is a modified version of 554.1 .  It also has a larger diameter (3mm) input hole so a filament guide PTFE tube can be run all the way round the corner to give low friction.
+
+554.2s-extruder-drive-pneumatic.fcstd is just like 554.2, except the X-axis hook is shorter so it will fit Oremerod 1. 
 
 528.4 Ormerod 2.fcstd is the whole of Ormerod 2 as a FreeCAD model.  This is the version of the machine just before the introduction of the Quickset nozzle.
 
