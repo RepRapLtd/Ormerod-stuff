@@ -18,3 +18,7 @@ Water-cooled is an experimental design for a water-cooled Ormerod extruder.
 PTFE-guide-tube-holder.fcstd is a guide for 2 4mm diameter PTFE Bowden tubes.
 
 snail-blower-fan-bracket.stl Snail fan print-cooler bracket.  TODO reverse engineer into FreeCAD.
+
+642.1 This is a modified design of the reel holder. It is designed to be able to accomodate a 200mm reel. Design modified by James Bowyer, Beech Design Limited.
+
+442.1 is a modified design of the spool spigot. It is designed to be able to accomodate a 200mm reel. Design modified by James Bowyer, Beech Design Limited.
